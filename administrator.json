@@ -1,1 +1,10 @@
-
+{
+  "app_name": "Administrator",
+  "app_version": "1.3",
+  "app_packagename": "Update",
+  "app_downloadlink": "true",
+  "app_downloadpage": "Cancel",
+  "app_deploymentid": "www.example.com",
+  "app_apikey": "1.1"
+  "app_tmdb": "1.1"
+}
