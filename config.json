@@ -1,1 +1,12 @@
-
+{
+  "app_name": "TDUBPLAY",
+  "app_version": "1.0",
+  "app_packagename": "com.hansdev.tdubplay",
+  "app_downloadlink": "https://raw.githubusercontent.com/tdubplay/server/main/Administrator V3.apk",
+  "app_downloadpage": "https://tdub-ph.blogspot.com",
+  "app_deploymentid": "AKfycbz8TjRwggg7x1_nBKGMWs3ebLrYxK6DxlDPfYnUB0cjtfqnf6qG-eECyVYtgC_lPGDR",
+  "app_apikey": "1YUyhF9QspyyFq06t4fYginwmOfQG8gnoJhOJcDiXAf0",
+  "app_tmdb": "74d0f90307ddcc73e79679f3228c633c",
+  "app_developer": "tdubplay@gmail.com",
+  "app_maintenance": "false"
+}
